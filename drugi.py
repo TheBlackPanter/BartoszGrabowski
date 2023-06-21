@@ -1,1 +1,2 @@
 print("DRUGI")
+print("Commit")
